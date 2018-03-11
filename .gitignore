@@ -1,6 +1,7 @@
 
 # JS stuff
 node_modules
+yarn-error.log
 
 # IDE
 .idea
