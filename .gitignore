@@ -5,3 +5,6 @@ yarn-error.log
 
 # IDE
 .idea
+
+# Other
+.DS_Store
